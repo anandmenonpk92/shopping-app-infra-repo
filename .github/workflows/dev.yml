@@ -1,6 +1,5 @@
 ---
 name: "Dev Infra Build"
-
 on:
   repository_dispatch:
     types: [ dev-deploy-event ]
